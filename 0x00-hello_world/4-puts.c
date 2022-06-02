@@ -1,14 +1,15 @@
 #!/bin/bash
 #include <stdio.h>
 /**
- * main 
- * 
+ *
+ * main - prints out a string to stdout.
+ * Description: this prints out a string
  * return : always 0 (sucess)
+ * 
  */
 int main()
 {
 
-	puts=("\"Programming is like building a multilingual puzzle")
-		;
+	puts("\"Programming is like building a multilingual puzzle");
 	return 0;
 }
