@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - Entry point.
  *
  * Description: this prints out string
  *
- * return: 0 if sucess
+ * return: 0 if sucess.
  */
 int main(void)
 {
