@@ -1,7 +1,7 @@
 #!/bin/bash
-int main()
-{
-	puts(""Programming is like building a multilingual puzzle\n);
-	putchar();
+int main(int argc, char* argv[]) {
+
+	char str[]= ""Programming is like building a multilingual puzzle";
+	puts(str);
 	return 0;
 }
