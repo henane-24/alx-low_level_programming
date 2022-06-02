@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: this is puts
+ *
+ * Description: this prints out string
+ *
  * return: always 0 (sucess)
  */
 int main(void)
