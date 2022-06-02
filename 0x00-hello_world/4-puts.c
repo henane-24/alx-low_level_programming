@@ -4,7 +4,7 @@
  *
  * Description: this prints out string
  *
- * return: always 0 (sucess)
+ * return: 0 if sucess
  */
 int main(void)
 {
