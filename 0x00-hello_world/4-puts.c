@@ -2,6 +2,6 @@
 int main()
 {
 	puts(""Programming is like building a multilingual puzzle\n);
-	getchar();
+	putchar();
 	return 0;
 }
