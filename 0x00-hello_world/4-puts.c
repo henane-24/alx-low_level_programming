@@ -1,12 +1,10 @@
 #include <stdio.h>
 /**
- * main - prints out a string to stdout.
+ * main - Entry point
  *
- * Description: this prints out a string
- *
- * return: 0 if sucess.
+ * return: always 0 (sucess)
  */
-int main()
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return 0;
