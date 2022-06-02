@@ -1,12 +1,14 @@
 #!/bin/bash
 #include <stdio.h>
 /**
+ * main 
  * 
- * 
+ * return : always 0 (sucess)
  */
-int main(int argc, char* argv[]) {
+int main()
+{
 
-	char str[]= "\"Programming is like building a multilingual puzzle";
-	puts(str);
+	puts=("\"Programming is like building a multilingual puzzle")
+		;
 	return 0;
 }
