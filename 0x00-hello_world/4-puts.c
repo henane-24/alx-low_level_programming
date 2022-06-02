@@ -4,7 +4,7 @@
  *
  * main - prints out a string to stdout.
  * Description: this prints out a string
- * return : always 0 (sucess)
+ * return: 0 if sucess.
  * 
  */
 int main()
@@ -12,4 +12,5 @@ int main()
 
 	puts("\"Programming is like building a multilingual puzzle");
 	return 0;
+
 }
