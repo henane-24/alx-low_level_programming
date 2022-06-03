@@ -7,13 +7,14 @@
  */
 int main(void)
 {
-        int lower;
+	int lower;
 	int upper;
+	
 	lower = getchar();
 	putchar(lower);
 	upper = toupper(lower);
 	putchar(upper);
 	putchar('\n');
-        return (0);
+	return (0);
 }
 
