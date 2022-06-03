@@ -11,8 +11,8 @@ int main(void)
 	int upper;
 
 	lower = getchar();
-	putchar(lower);
 	upper = toupper(lower);
+	putchar(lowwer)
 	putchar(upper);
 	putchar('\n');
 	return (0);
