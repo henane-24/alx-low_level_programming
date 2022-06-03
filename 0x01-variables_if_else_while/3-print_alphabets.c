@@ -10,7 +10,7 @@ int main(void)
         int lower;
 	int upper;
 	lower = getchar();
-	putchar(lower)
+	putchar(lower);
 	upper = toupper(lower);
 	putchar(upper);
 	putchar('\n');
