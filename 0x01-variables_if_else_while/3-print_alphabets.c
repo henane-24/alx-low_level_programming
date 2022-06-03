@@ -9,7 +9,7 @@ int main(void)
 {
 	int lower;
 	int upper;
-	
+
 	lower = getchar();
 	putchar(lower);
 	upper = toupper(lower);
