@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <ctype.h>
 /**
  * main - prints alpahabet in lowercase
  *
@@ -7,6 +8,7 @@
 int main(void)
 {
         int ch;
+	int upper;
 
         for (ch = 'a'; ch <= 'z'; ch++)
         putchar(ch);
