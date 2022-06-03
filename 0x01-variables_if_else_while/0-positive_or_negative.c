@@ -2,11 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * File: positive or negative
- * variables if else while
- */
-
-/**
  * main - prints postive or negative
  *
  * Return: o
