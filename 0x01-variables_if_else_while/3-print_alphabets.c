@@ -7,12 +7,10 @@
  */
 int main(void)
 {
-        int ch;
-	int upper;
+        int lower, upper;
 
-        for (ch = 'a'; ch <= 'z'; ch++)
-        putchar(ch);
-	lower = putchar(ch);
+	lower = getchar();
+        putchar(lower);
 	upper = toupper(lower);
         putchar(upper);
 	putchar('\n');
