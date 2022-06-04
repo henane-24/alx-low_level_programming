@@ -1,13 +1,12 @@
-#include <stdio.h>                                                                                                                 
-/**                                                
- * main - printing two digit numbers
- *
+#include <stdio.h>
+/**
+ * main - printing two digit number
+ * 
  * Return: 0
- *                                                                               */                                                                                                                                
-int main(void)                                                                                                                     
-{                                                                                                                   
+ *                                                                               */
+int main(void)
+{
 	int p, q;
-	
 	for (p = 0; p <= 98; p++)
 	{
 		for (q = p + 1; q <= 99; q++)
