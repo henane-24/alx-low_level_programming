@@ -6,8 +6,14 @@
  */
 int main(void)
 {
-	char b = 'a'
-	
+	int a = 0;
+	char b = 'a';
+
+	while (a < 10)
+	{
+	putchar(48 + a);
+	a++;
+	}
 	while (b <= 'f')
 	{
 	putchar(b);
