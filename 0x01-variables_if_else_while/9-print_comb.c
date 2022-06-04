@@ -12,8 +12,10 @@ int main(void)
 	{
 	printf(48 + a);
 	if(a!9)
+	{	
 	putchar(',');
 	putchar('');
+	}
 	a++;
 	}
 	printf("\n");
