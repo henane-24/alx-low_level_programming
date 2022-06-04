@@ -11,7 +11,7 @@ int main(void)
 	while (a < 10)
 	{
 	printf(48 + a);
-	if(a!9)
+	if( a != 9)
 	{	
 	putchar(',');
 	putchar('');
