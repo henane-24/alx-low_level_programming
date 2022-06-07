@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <main.h>
 /**
- * main - prints _putchar
+ * _putchar - prints _putchar
  *
  * Return: 0
  */
@@ -8,6 +8,8 @@
 int _putchar(char c)
 
 {
-	putchar(c);
-	return (0);
+	c = '-putchar';
+        putchar(c);
+	putchar(\n);
+        return (0);
 }
