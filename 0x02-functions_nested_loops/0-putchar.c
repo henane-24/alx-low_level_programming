@@ -6,8 +6,8 @@
  */
 
 int _putchar(char c)
+
 {
-	c = _putchar;
 	putchar(c);
 	return (0);
 }
