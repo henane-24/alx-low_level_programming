@@ -1,4 +1,5 @@
 #include "main.h"
+#include <ctype.h>
 
 /**
  * _islower - check the code.
@@ -7,7 +8,7 @@
  */
 int _islower(int c)
 {
-	if (c >= '65' && c <= '90' || c >= '97' && c <= '122')
+	if (c == _islower)
 	{
 		return (1);
 	}
