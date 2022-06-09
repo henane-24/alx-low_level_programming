@@ -10,6 +10,7 @@
 int mul(int a, int b)
 {
 	char prod;
+
 	prod = a * b;
 	return (prod);
 }
