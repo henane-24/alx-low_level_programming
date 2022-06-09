@@ -6,10 +6,11 @@
  * @b: input integer
  * Return: prod 
  */
+
 int mul(int a, int b)
 {
 	int prod;
-
+	
 	prod = a * b;
 	return (prod);
 }
