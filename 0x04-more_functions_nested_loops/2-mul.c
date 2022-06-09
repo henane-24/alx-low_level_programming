@@ -11,5 +11,5 @@ int mul(int a, int b)
 {
 	char prod;
 	prod = a * b;
-	return (0);
+	return (prod);
 }
