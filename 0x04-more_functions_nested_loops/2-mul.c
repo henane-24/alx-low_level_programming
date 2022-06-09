@@ -6,7 +6,6 @@
  * @b: input integer
  * Return: prod 
  */
-
 int mul(int a, int b)
 {
 	char prod;
