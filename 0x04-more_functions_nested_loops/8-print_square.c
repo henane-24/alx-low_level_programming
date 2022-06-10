@@ -12,7 +12,7 @@ int i;
 
 for (i = 0; i < size; i++)
 {
-if (n <= 0)
+if (size <= 0)
 {
 _putchar('\n');
 }
