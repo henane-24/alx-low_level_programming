@@ -20,5 +20,6 @@ _putchar('\n');
 }
 _putchar(35);
 }
+}
 _putchar('\n');
 }
