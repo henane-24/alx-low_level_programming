@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * reset_to_98 - A function that takes to an int as parameter and updates the value
+ * reset_to_98 - A function that takes to an int as parameter 
+ * and updates the value
  * @n: an integer input
  * Return: void
  */
