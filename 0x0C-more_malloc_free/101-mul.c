@@ -28,6 +28,7 @@ int is_digit(char *s)
  *
  * Return: the length of the string
  */
+
 int _strlen(char *s)
 {
 	int i = 0;
@@ -42,6 +43,7 @@ int _strlen(char *s)
 /**
  * errors - handles errors for main
  */
+
 void errors(void)
 {
 	printf("Error\n");
